@@ -60,6 +60,9 @@
 /obj/projectile/beam/weak/penetrator
 	armour_penetration = 50
 
+/obj/projectile/beam/laser_shell
+	damage = 8 //laser shells shoot 6 of these for 48 damage without armor.
+
 /obj/projectile/beam/practice
 	name = "practice laser"
 	damage = 0

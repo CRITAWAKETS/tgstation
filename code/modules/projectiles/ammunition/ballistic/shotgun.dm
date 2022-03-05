@@ -113,11 +113,11 @@
 	pellets = 4
 	variance = 35
 
-/obj/item/ammo_casing/shotgun/laserslug
+/obj/item/ammo_casing/shotgun/laser_shell
 	name = "scatter laser shell"
 	desc = "An advanced shotgun shell that uses a micro laser to replicate the effects of a scatter laser weapon in a ballistic package."
 	icon_state = "lshell"
-	projectile_type = /obj/projectile/beam/weak
+	projectile_type = /obj/projectile/beam/laser_shell
 	pellets = 6
 	variance = 35
 
